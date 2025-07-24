@@ -42,7 +42,7 @@ I’ll start sharing my progress and beginner-friendly projects here as I learn 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sanjana-devi-a95595339/)
-- ✉️ Email: *[Add your email if you'd like]*
+- ✉️ Email: sanjanadevibihana@gmail.com
 
 ---
 
