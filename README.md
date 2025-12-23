@@ -1,64 +1,40 @@
-# 👋 Hi, I'm Sanjana Devi  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Hi there, I'm **Sanjana Devi!**
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Student;Data+Analytics+Learner;Python+Enthusiast;Building+Real-World+Projects"
-    alt="Typing SVG"
-  />
-</p>
+### 👩‍💻 About Me  
+- AI/ML Student & Data Analytics Learner  
+- Intern @ CodroidHub  
+- Exploring Python, Machine Learning & Computer Vision  
+- Always learning and building projects that solve real-world problems
 
 ---
 
-## 👩‍💻 About Me
+## 🛠️ Tech & Tools
 
-🎓 B-Tech student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.  
-🐍 I enjoy working with **Python**, real-world datasets, and practical projects.  
-🚀 My goal is to build impactful AI solutions that solve real problems.
+**Languages & Frameworks**
+- Python
+- HTML, CSS (Basics)
 
----
-
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
-</p>
-
-**Data & AI**
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Machine Learning (Beginner)
+**Data & Analytics**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn (Beginner)
 
 **Computer Vision**
 - OpenCV
 
----
-
-## 📌 Featured Projects
-
-🚀 **AI/ML Bootcamp Projects**  
-📊 **Data Analytics Notebooks**  
-👁️ **Eye Tracking Cursor (OpenCV)**  
-🧙 **Invisible Cloak (Computer Vision)**  
-🌐 **Personal Portfolio Website**
+**Tools**
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Python  
-- Machine Learning Algorithms  
-- Data Analytics  
-- Model Deployment (Flask / Streamlit)
-
----
-
-## 📊 GitHub Activity & Stats
+## 📌 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana806&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana806" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana806&show_icons=true&theme=default" alt="Sanjana's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana806&theme=default" alt="Sanjana's GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -67,17 +43,29 @@
 
 ---
 
-## 📫 Connect With Me
+## 💼 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com](https://www.linkedin.com/in/sanjana-devi-a95595339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a>
-  <a href="sanjanadevibihana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
-</p>
+### **AI & ML Projects**
+- **AI/ML Bootcamp Projects** – Hands-on projects covering Python & ML basics  
+- **Eye Tracking Cursor** – Control cursor with eye movement using OpenCV  
+- **Invisible Cloak (Harry Potter Project)** – Background subtraction with OpenCV
+
+### **Data Analytics**
+- **Data Notebooks** – Python notebooks analyzing data and visualizing results
+
+### **Web & Portfolio**
+- **Portfolio Website** – Personal portfolio to showcase skills & projects
+
+> *More projects coming soon!* 🚀
 
 ---
 
-⭐ **Learning every day. Building step by step.**
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sanjana-devi-a95595339/  
+- GitHub: https://github.com/sanjana806
+
+---
+
+“Code with purpose. Learn with passion.”
+
