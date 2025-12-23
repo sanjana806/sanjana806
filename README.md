@@ -70,10 +70,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/sanjana-devi-a95595339/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="sanjanadevibihana@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
   </a>
 </p>
