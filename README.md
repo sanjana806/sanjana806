@@ -1,79 +1,83 @@
-# 👋 Hi, I'm Sanjana Devi
+# 👋 Hi, I'm Sanjana Devi  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-🎓 AI/ML Student | 📊 Data Analytics Learner | 🐍 Python Enthusiast  
-🇮🇳 India | 🚀 Passionate about building real-world AI solutions
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Student;Data+Analytics+Learner;Python+Enthusiast;Building+Real-World+Projects"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a BTECH student with a strong interest in **Artificial Intelligence, Machine Learning, and Data Analytics**.  
-I enjoy learning by building projects and working with real data.  
-Currently, I am focused on improving my skills in **Python, Machine Learning, and Computer Vision**.
+🎓 First-year engineering student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.  
+🐍 I enjoy working with **Python**, real-world datasets, and practical projects.  
+🚀 My goal is to build impactful AI solutions that solve real problems.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages**
-- Python
-- Java (Basics)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+</p>
 
 **Data & AI**
-- NumPy
-- Pandas
-- Matplotlib
+- NumPy  
+- Pandas  
+- Matplotlib  
 - Machine Learning (Beginner)
-- Data Analysis
 
 **Computer Vision**
 - OpenCV
-
-**Tools & Platforms**
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **AI/ML Bootcamp Projects**  
-Hands-on projects completed during AI/ML training, covering Python, ML basics, and data handling.
-
-🔹 **Eye Tracking Cursor**  
-Computer vision project using OpenCV to control cursor movement using eye tracking.
-
-🔹 **Invisible Cloak (Harry Potter Project)**  
-Fun OpenCV project implementing background subtraction and color detection.
-
-🔹 **Portfolio Website**  
-Personal portfolio showcasing my skills and projects.
+🚀 **AI/ML Bootcamp Projects**  
+📊 **Data Analytics Notebooks**  
+👁️ **Eye Tracking Cursor (OpenCV)**  
+🧙 **Invisible Cloak (Computer Vision)**  
+🌐 **Personal Portfolio Website**
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Python
-- Machine Learning algorithms
-- Data Analytics workflows
-- Model deployment basics (Flask / Streamlit)
+- Advanced Python  
+- Machine Learning Algorithms  
+- Data Analytics  
+- Model Deployment (Flask / Streamlit)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-![Sanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjana806&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana806&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana806" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana806&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjana806&theme=github-compact" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sanjana-devi-a95595339/
-- 📧 Email: sanjanadevibihana@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-⭐ *“Learning every day, building step by step.”*
+⭐ **Learning every day. Building step by step.**
