@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 First-year engineering student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.  
+🎓 B-tech student passionate about **Artificial Intelligence, Machine Learning, and Data Analytics**.  
 🐍 I enjoy working with **Python**, real-world datasets, and practical projects.  
 🚀 My goal is to build impactful AI solutions that solve real problems.
 
