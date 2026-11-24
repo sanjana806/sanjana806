@@ -96,7 +96,7 @@ mindset: "Build fast, learn deeply, ship things that matter."
 ### ✦ GitHub Pulse
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sanjana806&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&hide_border=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sanjana806 &show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&hide_border=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana806&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&hide_border=true" />
 </div>
 
